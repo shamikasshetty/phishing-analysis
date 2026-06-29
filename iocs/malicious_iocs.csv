@@ -1,0 +1,5 @@
+ioc_type,ioc_value,severity,source
+ip,185.220.101.45,high,phishing_email
+url,http://paypal-secure-login.paypa1-verify.com/login,high,phishing_email
+domain,paypa1-alerts.com,high,phishing_email
+domain,paypa1-verify.com,high,phishing_email
